@@ -1,0 +1,9 @@
+-  RAG  reddit posts analysis:
+	- [ ] need to fix silent failures and confidently wrong answers
+	- [ ] a full rag workflow visualization(from indexing of docs to retrieving and answering from docs)
+	- [ ] need a system to handle indexing docs according to their appropriate parser
+	- [ ] know how does a graph database works so you can use it accordingly
+	- [ ] user history feature
+	- [ ] robust parser, which use every bit , every function available to extract the data, and delete the duplicates if any(in that keep all the data static, just make changes in the keep 1 or 2, if none prompt to choose, can be exited by x)
+	- [x]  ✅ 2026-01-05
+	- [x]  ✅ 2026-01-05

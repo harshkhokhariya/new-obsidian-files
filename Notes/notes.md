@@ -1,0 +1,2 @@
+- the hype is for mcp, and rag, and no-code
+- 

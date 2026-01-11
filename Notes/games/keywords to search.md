@@ -1,0 +1,7 @@
+- [ ] automation
+- [ ] n8n
+- [ ] make.com
+- [ ] zapier
+- [ ] ai agent
+- [ ] rag
+- [ ] 

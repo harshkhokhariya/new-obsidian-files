@@ -1,0 +1,25 @@
+- [x] make a gmail account for community insights newsletter
+- [x] **Write the first "Community Insights" post on Substack.**
+    - [x] Title: Community insights on founder communities
+    - [x] Content: Brief, personal intro + full, well-formatted AI report.
+    - [x] CTA: Clear call to subscribe.
+- [ ] **Create the "Idea Collector" Google Form.**
+    - [ ] Title: `Suggest a Community for AI Analysis`
+    - [ ] Question: `"What online community should I analyze next?"`
+    - [ ] Get the shareable link.
+- [x] **Post the Launch Announcement on `r/indiehackers`.**
+    - [x] Title: `"Market validation is real. The r/SaaS community loved my AI analyzer, so I launched a newsletter in 48 hours."`
+    - [x] Body: Story, link to Substack post, link to Google Form.
+- [ ] **Establish the Daily "Hunter" Ritual (30-45 mins/day).**
+    - [ ] Set up Upwork saved searches/alerts: `Python PDF extraction`, `n8n AI agent`, `web scraping automation`, `AI agent Zapier`.
+    - [ ] Send 1-2 highly personalized proposals daily to best-fit new jobs.
+- [ ] **Formalize Your "Portfolio Roadmap" in Obsidian.**
+    - [ ] Create new Obsidian note: `Portfolio Roadmap`.
+    - [ ] Add "Project 1: The PDF Data Extractor."
+    - [ ] Paste core requirements from saved Upwork job description.
+    - [ ] Schedule this work for *after* "Community Insights" launch is stable and second issue published.
+- [ ] **Engage with every comment** on your `r/indiehackers` launch post.
+- [ ] **Analyze Google Form submissions** for next newsletter topic.
+- [ ] **Write and publish the second issue** of "Community Insights" based on audience feedback.
+- [ ] analyze upwork job postings, and extract projects, and  START MAKING THEM!!!!!!
+- [ ] verify paypal kyc

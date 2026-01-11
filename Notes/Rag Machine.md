@@ -1,0 +1,34 @@
+## Components
+- Features
+	- chunk cache system to retrieve frequently chunks faster and cheaper
+	- db index streaming(streaming db index as a static file, or a static json, which tells the structure of the stored files, so the client can know what files or chunks to index)
+
+- Parsers
+	- [ ] code parsers
+		- [ ] potential solution :tree-sitter
+		- [ ] python code parser
+		- [ ] JS parser 
+		- [ ] C, C++ parser
+		- [ ] other language common parser
+	- [ ] md parser
+	- [ ] book parser
+	
+- Workflows
+	- [ ] how to use embeddings model to retrieve the chunks 
+	- [ ] hybrid retrieval 
+	- [ ] code repo parsing workflow
+		- [ ] ingesting a zip file
+		- [ ] extracting it
+		- [ ] examining file-tree
+		- [ ] knowing which files to ignore, from .gitignore/other approach
+		- [ ] parsing files and storing them in a (graph db if needed!)
+	- [ ] book indexing
+	- [ ] simple plain md indexing
+	- [ ] simple plain text indexing
+	- [ ] pdf indexing
+		- [ ] OCR fallback for images in pdf
+		- [ ] robust table and excel parsing 
+	- [ ] excel indexing
+	- [ ] MS OFFICE docs indexing
+	- [ ] other files indexing(with complex formatting)
+	- [ ] 

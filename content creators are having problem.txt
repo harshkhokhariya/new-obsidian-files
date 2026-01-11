@@ -1,0 +1,22 @@
+content creators are having problems managing admin work,  and day-to-day operational tasks such as scheduling posts, and responding to emails, and updating various platform stats, so you can make something for them , they are already using tools like: 
+Buffer/Later [saves time but still requires batch creation, manual content scheduling], 
+Notion [good for organization, but gets overwhelming with freelance editors and feedback rounds, tough for visual review],
+Syllaby [brainstorms ideas, creates faceless videos, schedules them, but implies less control over creative process],
+Trendradar [surfaces trending topics by scanning tweets/news, but focuses on tweets, might need niche filtering],
+and more, but almost each tool has its flaws, so you can fill the gap!
+
++ they are having problems like: inefficient content repurposing, lack of content idea generation and consistency of content, uncertainty of algorithm etc. 
+
+so you can also make products for them too!
+
+and this is only for content creators, you can also check out reports including:
+pain points
+emerging trends
+validated product and service opportunities
+target audience profile
+potential monetization models 
+and much more....
+
+its free and very valuable resource by the way
+ its called Community Insights , 
+link:https://communityinsights.pages.dev/

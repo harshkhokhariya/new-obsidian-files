@@ -1,0 +1,4 @@
+- timely backup the folder, both offline and in a separate place online too
+- make most of the plugins automatic, nothing manual will be remembered, everything should be smooth.
+- do not include any symbols in any filenames
+- 

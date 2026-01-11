@@ -1,0 +1,1 @@
+- no music, because it just stimulates your brain(if your brain craves it, make it a reward button)

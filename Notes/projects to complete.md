@@ -1,0 +1,12 @@
+- [ ] ai agent
+- [ ] rag machine
+- [ ] reddit users DB for finding similar communities or just make a simple script to find similar communities by screening users, and collecting all the users, and then fetching which communities they follow, and then checking the similar communities
+- [ ] a chat app using streamlit UI
+- [ ] a simple rag workflow with ingesting and outputting answers.
+- [ ] a simple md to index maker, which outputs index of a file ⏳ 2026-01-11
+- [ ] a simple program to serve resources at a specific url(localhost first, then online!) make it a mcp server⏳ 2026-01-11 
+- [ ] a simple program to fetch the resources from a url(ref. above)
+- [ ] mcp server simple!
+- [ ] mcp client simple
+- [ ] a google ai studio, local observer, for caching, or local use purposes
+- [ ] 

@@ -1,0 +1,29 @@
+- [ ] find or put in todo list to make or find a prompt engineering test
+- [x] put community insights on ship squad
+- [x] publish on shipsquad
+- [ ] gather api keys of together, and cerebras
+	- [ ] also model names for them
+- [ ] Upgrade generatesocialcontent.py. This is your one and only coding task. Expand the regex section to extract all the key content atoms: Executive Summary, Pain Points, Validated Opportunities, Emerging Trends, and a key Quote. This makes your engine feature-complete for a full campaign.
+	- [ ] make it create x tweets
+	- [ ] make it create ig posts, especially business ideas , because it is what people are finding 
+	- [ ] 
+- [ ] make automated posts, that are llm-friendly, so you can increase your chances of getting recommended by llms
+- [ ] schedule document based chunker and retriever
+- [ ] make first mcp client, and mcp server
+	- [ ] understand mcp client's & server's  core code, and fundamentals
+	- [ ] simple mcp client
+	- [ ] simple mcp server, 
+	- [ ] take mcp client from smolagents for demo after making for yourself, or do it vice versa
+- [ ] check out all the features fo google ai pro plan, and how can it help you to make money, and progress faster, and better
+- [ ] slowly start making the ai agent, one by one, start by making the memory queue. 
+- [ ] make a rag workflow for demo, use vision models smol vlm 256 instruct, and qwen vl 7b , and check results, or also you can use other models too!
+- [ ] setup social media accounts
+	- [ ] ig
+	- [ ] x
+- [ ] make first posts in 
+	- [ ] ig
+	- [ ] x
+- [ ] upload realtors report, and get a script to standardize the reports, and shake off the excessive content
+- [ ] post content on ig
+- [ ] post content on x
+- [ ] extract all subreddits list from the github reddit project

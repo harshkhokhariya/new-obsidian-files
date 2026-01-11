@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ac46a69e0ead591c","type":"text","text":"ai agent","x":-166,"y":-35,"width":247,"height":87},
+		{"id":"679c158edbc1cd4e","type":"text","text":"user: hi","x":-328,"y":206,"width":157,"height":50},
+		{"id":"07d4b6a3c56c671d","type":"text","text":"ai agent: hello","x":-375,"y":288,"width":250,"height":60},
+		{"id":"0cff435ff55a3be8","x":-376,"y":416,"width":250,"height":60,"type":"text","text":"user:"}
+	],
+	"edges":[
+		{"id":"18fb904af66096f7","fromNode":"679c158edbc1cd4e","fromSide":"bottom","toNode":"07d4b6a3c56c671d","toSide":"top"},
+		{"id":"ddaf8c3d3c44b252","fromNode":"07d4b6a3c56c671d","fromSide":"bottom","toNode":"0cff435ff55a3be8","toSide":"top"}
+	]
+}

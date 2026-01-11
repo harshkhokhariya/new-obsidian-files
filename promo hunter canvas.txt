@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"3a2359e87113d746","type":"group","x":-2680,"y":760,"width":1340,"height":920,"label":"Product flow"},
+		{"id":"a6a44d3601775112","type":"text","text":"always running* workflows:\n\n- workflow to check if any new users are added or not*\n- workflow to create reports for the products (main report)\n- daily scanning/updating the subreddit posts which are active(make another column for it)\n- ","x":-3949,"y":1269,"width":528,"height":668},
+		{"id":"f32d9aab75b910c1","type":"text","text":"when the user uploads the product and their info:\n- we need to make a 'portfolio' or a product description, which we can run in many different processes such as:\n\t- finding different subreddits following the target audience of that product(use rag for it)\n\t- using it to generate serp phrases, so we can find seo, and competitors ranking\n\t- finding relevant conversations on x too. \n\t- finding relevant blog posts on hacker news\n- we need to insert that user in the db, and also product name, related to that user, they can have multiple products. ","x":-3214,"y":1358,"width":498,"height":685},
+		{"id":"9bdce0df1b87bbe6","type":"text","text":"- concatenate the product name + product description+ the target audience. \n- according to that find any relevant subreddits in the database, by sending it to gemini + master market map, ","x":-3200,"y":1040,"width":389,"height":280},
+		{"id":"8ce913ad31c0790e","type":"text","text":"user will input:\n- product name*\n- product description*\n- the target audience*\n- url (landing page or homepage)\n- specific subreddits to scan for\n- competitors ","x":-2660,"y":860,"width":340,"height":278},
+		{"id":"488e83c03ca7042b","type":"text","text":"product flow","x":-2474,"y":780,"width":235,"height":43},
+		{"id":"d05a3b3b85a9229d","type":"text","text":"live data","x":-920,"y":1000,"width":250,"height":50},
+		{"id":"2c15a173d8838258","type":"text","text":"serp results","x":-840,"y":920,"width":262,"height":51},
+		{"id":"aa31034cd08b2b39","type":"text","text":"cached data","x":-764,"y":1000,"width":250,"height":60},
+		{"id":"b685dac767fb3027","type":"text","text":"reddit dumps","x":-840,"y":360,"width":250,"height":60},
+		{"id":"0a3703e871edad83","type":"text","text":"html to pdf workflow","x":-424,"y":414,"width":307,"height":61},
+		{"id":"24354e9091fda34b","type":"text","text":"email sending workflow","x":-432,"y":518,"width":315,"height":66},
+		{"id":"2cfb74e1bf50902c","type":"text","text":"reddit search ","x":-840,"y":200,"width":264,"height":62},
+		{"id":"98d29b794c4426cb","type":"text","text":"competitor mentions and tracking","x":-465,"y":158,"width":305,"height":50},
+		{"id":"a9b11f479120277d","type":"text","text":"llm generated reply","x":-80,"y":360,"width":326,"height":56},
+		{"id":"d4ab458fb12f1b82","type":"text","text":"subreddit rule scanning","x":100,"y":60,"width":283,"height":50},
+		{"id":"7559c675183a3bb4","type":"text","text":"project details in :\n[[ph3]]","x":-676,"y":-182,"width":273,"height":221},
+		{"id":"46f7ef5a4c7333de","type":"text","text":"PROMO HUNTER","x":-159,"y":-60,"width":250,"height":81},
+		{"id":"b60cf81bb3aff2ec","type":"text","text":"user data, and user product details","x":440,"y":640,"width":250,"height":60},
+		{"id":"033ca538c4be264a","type":"text","text":"storing user data","x":600,"y":520,"width":257,"height":45},
+		{"id":"e35b5272d644c340","type":"text","text":"user's targeted subs, and user's generated reports and daily updates","x":740,"y":640,"width":280,"height":80},
+		{"id":"326f0f7bb65de189","x":-2210,"y":969,"width":250,"height":60,"type":"text","text":"add user details to the db"},
+		{"id":"36ecf70210a96e84","x":-2695,"y":1708,"width":402,"height":412,"type":"text","text":"what would the user get?\n\na first-time report in which the user will be given all the best opportunities that he needs to reply to, in order to increase reach"},
+		{"id":"07451d77c1f67cbd","x":-2252,"y":1716,"width":430,"height":412,"type":"text","text":"checklist for todos:\n\n- [ ] user onboarding workflow\n- [ ] first report workflow\n- [ ] payment workflow\n- [ ] daily report workflow. "},
+		{"id":"93a3c861fe708ccf","x":-3234,"y":2131,"width":534,"height":949,"type":"text","text":"there will be following scripts:\n- a script to refresh the db with new posts for subreddits which are scanned for products\n- a script for generating first report for a user, it automatically scans the db, and then it will see which users are not having the first report being sent. \n- a script to scan for any new users and it will scan the db for new users, if not, then exit, if new users available (via a column, first_report_generated:1or 0. default 0.  ) if yes, then it will start for each user, about generating report for the first time. \n\t- gathering subreddits by customer description\n\t- scanning top n subreddits for pain points, and opportunities, "}
+	],
+	"edges":[
+		{"id":"ae13e68e9c9762c8","fromNode":"033ca538c4be264a","fromSide":"bottom","toNode":"b60cf81bb3aff2ec","toSide":"top"},
+		{"id":"aae67565775a2af7","fromNode":"033ca538c4be264a","fromSide":"bottom","toNode":"e35b5272d644c340","toSide":"top"},
+		{"id":"541e6c7cff5caeae","fromNode":"2c15a173d8838258","fromSide":"bottom","toNode":"d05a3b3b85a9229d","toSide":"top"},
+		{"id":"117bc0fd33c47a56","fromNode":"2c15a173d8838258","fromSide":"bottom","toNode":"aa31034cd08b2b39","toSide":"top"},
+		{"id":"72b33faee17d8c63","fromNode":"8ce913ad31c0790e","fromSide":"right","toNode":"326f0f7bb65de189","toSide":"left"}
+	]
+}

@@ -1,0 +1,3 @@
+- [ ] 🛫 2026-01-10 check off all the unnecessary checklist items from the main todo list, so it is not that laggy, or you can also use queries and just make a list which has only tasks for that date, so you dont have a clutter of all the tasks 
+- [ ] put 2-3 threads as spy wear
+- [ ] spy gear 

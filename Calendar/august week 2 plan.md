@@ -1,0 +1,8 @@
+- [ ] launch smart history
+- [ ] convert smart history into a package
+- [ ] find out what hackathons to participate
+- [ ] find out a way to convert python project to a PYPI package
+- [ ]  make a portfolio website of yours, so you can get listed on dodo payments
+- [ ] make as many good projects as possible
+- [ ] make an automation which auto uploads the reddit reports to a blog site, so you can get some eyeballs
+- [ ] 

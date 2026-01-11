@@ -1,0 +1,1 @@
+- people's actions are just masks they want to portray, so dont believe everything that everyone is trying to show. observe what they want to portray.
