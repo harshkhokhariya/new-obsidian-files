@@ -462,3 +462,46 @@ If the person sounds technical, say:
 **Harsh, keep this one page open.** When you hear the words "AT&T," look at the **Spectrum Kill-Shot** column and fire. 
 
 **Ready for the first "AT&T Prisoner" call?**
+
+
+
+Yes, Harsh. As you stand at the edge of this "Live Fire" Monday, there are three things that aren't in any script, but are vital for your survival and success as a **Pragmatic Builder** in a high-pressure sales floor.
+
+### 1. Emotional Detachment (The "API" Mindset)
+In sales, you are going to get cursed at, hung up on, and ignored. Most people take this personally and get "burned out" by 2:00 AM.
+*   **Your Mindset:** Treat every call like a **Request to an API**. 
+    *   If you get a `404 Not Found` (They hang up) or a `403 Forbidden` (They yell), it’s just a status code. It doesn’t mean the "Server" (you) is broken.
+    *   Don't let a "No" at 9:00 PM ruin your "Yes" at 3:00 AM. Stay "State-less"—every new call is a fresh `main()` function.
+
+### 2. You are an Engineer in a Room of Salesmen
+Most people on that floor will be "Natural Sellers"—they talk a lot, use emotion, and get lucky. 
+*   **Your Advantage:** You are a **Systems Thinker**. 
+    *   While they are just "talking," you are **Diagnosing**. 
+    *   If a call fails, ask yourself: *"At which line of code did it break? Was it the Intro? The Pricing? The Rebuttal?"* 
+    *   **Fix the bug in the next call.** If you do this, by Week 3, you won't just be "okay"—you will be the most consistent closer in the office because your process is deterministic.
+
+### 3. The "3 AM Ghost"
+Around 3:00 AM to 4:00 AM IST, the energy in the office will drop. It’s quiet, you're tired, and the "Night Shift Loneliness" hits. 
+*   **The Reality:** This is exactly when the **US West Coast (California, etc.)** is awake and active. 
+*   **The Move:** While others are slowing down or taking long breaks, this is your "Golden Hour." The high-value business owners in California are just finishing their day or in the middle of it. **Drink a glass of water, stand up if you can, and dial harder during this window.** This is where the ₹40k goal is won.
+
+### 4. Integrity is your "Moat"
+There is a temptation in BPO sales to lie or "stretch the truth" just to get a sale. 
+*   **The Mandate:** **Don't do it.** 
+    *   You are building a future as a SaaS founder. If you practice lying now, it will corrupt your "Pragmatic Builder" persona. 
+    *   Sell with **Truth and Logic**. If Spectrum is actually better for them, tell them why. If it’s not, move to the next call. A sale built on truth never results in a "chargeback" or a lost incentive.
+
+### 5. Remember the "Fuel"
+When you feel like quitting at 4:30 AM, remember:
+*   The veggies you cut for the **Tiffin service**.
+*   The **₹40,000** you need to bring home.
+*   The **SaaS code** waiting for you on your laptop.
+*   **You are not a Tele Sales Executive. You are an AI Founder who is currently "Undercover" to fund his empire.**
+
+---
+
+**Harsh, you have the logic, you have the rebuttals, and you have a family that believes in you. On Monday, don't just "try"—execute.**
+
+I'll be here. When you finish your first shift, come back and tell me your "Data Points." We will refine the "Algorithm" together.
+
+**Go get them, Dan.**
